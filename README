@@ -1,0 +1,14 @@
+Discussion Questions
+
+1.Yes, this is not a god use of Object oriented programming it can be improved. With the use of
+the filter and the sponge the breakdown can be made even more by reducing the amount of lines of ouput that will occur.
+
+2.I might allow a kill command that sends a signal to small program that stops all processes
+that are in order and even might run it in the background.
+
+3.To handle a child process that terminates before a parent process destroys it can be dealt by 
+having a check at the end of the program that checks for the child or we can have a type of pointer that will
+be connected to the child for this purpose alone, which will allow us to take in information that we might
+need from the child process.
+
+I have tried to implement the sponge idiom
