@@ -1,6 +1,6 @@
 Discussion Questions
 
-1.Yes, this is not a god use of Object oriented programming it can be improved. With the use of
+1.Yes, this is not a good use of Object oriented programming it can be improved. With the use of
 the filter and the sponge the breakdown can be made even more by reducing the amount of lines of ouput that will occur.
 
 2.I might allow a kill command that sends a signal to small program that stops all processes
